@@ -1,0 +1,8 @@
+<html>
+<body>
+<script typr="text/javascript">
+var a=10,b=20;
+adocument.write(a+b);
+</script>
+</body>
+</html>
